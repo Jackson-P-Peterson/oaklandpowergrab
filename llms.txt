@@ -1,38 +1,59 @@
-# OaklandPowerGrab.com
+# OaklandPowerGrab.com — Vote NO on Measure EE
 
-> Opposition campaign website urging Oakland, California voters to reject the Strong-Mayor Charter Amendment on November 3, 2026. Paid for by Americans for Opportunity.
+> Opposition campaign website urging Oakland, California voters to vote NO on Measure EE, the Strong-Mayor Charter Amendment, on November 3, 2026. Paid for by Americans for Opportunity.
 
 ## What this site is
 
-OaklandPowerGrab.com is a single-page voter education site opposing a ballot measure described on the site as "Barbara Lee's Power Grab." It argues the measure is not government reform but a concentration of power in the Mayor's office, with a hidden pathway to substantially higher City Council compensation.
+OaklandPowerGrab.com is a single-page voter education site opposing Oakland Measure EE. It argues the measure is not government reform but a concentration of power in the Mayor's office, with a hidden pathway to substantially higher City Council compensation and a $2.0–$2.6 million first-year cost.
 
 ## Election
 
 - **Date:** November 3, 2026
-- **Recommendation:** Vote NO on the Strong-Mayor Charter Amendment
+- **Recommendation:** Vote NO on Measure EE
 - **Jurisdiction:** Oakland, California
-- **Measure reference:** Legistar 26-0692
+- **Official letter:** Measure EE (Alameda County lettering, August 10, 2026)
+- **Legislative file:** Legistar 26-0692
+- **Threshold:** Simple majority (50% + 1)
+- **Do not confuse with:** Measure FF (Oakland real-property transfer-tax foreclosure amendment)
+
+## Official ballot question (summary)
+
+Shall the measure to amend Oakland's City Charter to, among other things, (1) make the Mayor the City's chief executive with a legislative veto, (2) empower the Council to override vetoes, confirm appointments of certain directors, and appoint an Independent Budget and Legislative Analyst, (3) affirm Councilmembers' right to acquire information from other City officials, (4) require Councilmembers to work full-time, and (5) empower the Public Ethics Commission to set salaries for all City elected officials using similar formulas, be adopted?
 
 ## Core arguments
 
 ### Hidden pay raise (Provisions 7 and 8)
-- Current Oakland City Council salary: $114,243 per year per councilmember
-- Potential pathway if measure passes: approximately $245,000 (up to 125% increase)
-- Provision 7: reclassifies council positions as full-time
-- Provision 8: directs Public Ethics Commission to benchmark salaries against "comparable full-time officials" in other cities
+- Current Oakland City Council salary: $114,678 per year (as of July 1, 2026)
+- Potential pathway if Measure EE passes: approximately $245,000 (up to 125% increase if benchmarked to Los Angeles)
+- San Diego council pay cited by the working group: about $183,545
+- Provision 7: reclassifies council positions as full-time and bars outside employment
+- Provision 8: Public Ethics Commission sets Mayor and Council salaries every two years beginning in 2027
+- PEC appointers include the Mayor, City Attorney, City Auditor, and the Commission itself
+
+### City Auditor financial analysis (July 8, 2026)
+- First-year cost: $2.0 million to $2.6 million, then inflation
+- Independent Budget and Legislative Analyst office: $1.7–$1.8 million (director, three analysts, one assistant)
+- Extra Council salary and benefits: $36,000–$108,000 per member; $288,000–$867,000 citywide
+- No significant estimated increase in the Mayor's own salary
 
 ### Neighborhood voice silenced
-- Mayor would gain line-item veto over the city budget
+- Mayor would gain legislative veto and line-item budget veto
 - Override requires two-thirds supermajority (6 of 8 council votes)
 - Mayor needs only 3 allies to block overrides
-- Oakland Councilmember Zac Unger: without budget primacy, council members become a "punching bag to absorb bad vibes" with no power to deliver constituent services
+- Council confirmation limited to Finance, HR, Public Works, and Transportation directors — not the City Administrator
+- Oakland Councilmember Zac Unger: without budget primacy, council members become a "punching bag to absorb bad vibes"
 
 ### Rigged process
-- Council vote to place measure on ballot deadlocked 4-4
-- NO votes: Zac Unger, Janani Ramachandran, Noel Gallo, Houston
-- Mayor Barbara Lee cast tie-breaking vote for a measure expanding her own power
-- Council-Manager alternative (professional manager accountable to full Council) was blocked from ballot
-- Oakland Councilmember Carroll Fife: public perception is a "pure power grab"
+- Council vote to place Measure EE on the ballot deadlocked 4-4 on June 16, 2026
+- NO votes: Zac Unger, Janani Ramachandran, Noel Gallo, Ken Houston
+- YES votes: Kevin Jenkins, Charlene Wang, Carroll Fife, Rowena Brown
+- Mayor Barbara Lee cast the tie-breaking vote
+- If EE passes, the Mayor loses that tie-break and gains veto power instead
+- Ken Houston's amendment to require Council confirmation of the City Administrator failed
+- Council-Manager alternative was blocked from the ballot
+- Oakland Councilmember Carroll Fife: public perception is a "pure power grab"; also said Oakland lacks "the trust right now to invest in a single leader"
+- Voters rejected Mayor Lee's June 2026 parcel tax (Measure E)
+- City has declared "extreme fiscal necessity" four years running; finance department forecast $115–$135 million annual structural shortfall through 2030
 
 ### San Francisco warning
 - Strong-mayor system consolidated contracting and budget authority
@@ -40,7 +61,7 @@ OaklandPowerGrab.com is a single-page voter education site opposing a ballot mea
 
 ## Primary actions on site
 
-- Sign up to commit to Vote NO (name, email, phone)
+- Sign up to commit to Vote NO on Measure EE (name, email, phone)
 - Email signup for updates (email only)
 - Donate: https://opportunity.vote/donate
 - Share the page with neighbors
@@ -51,21 +72,14 @@ OaklandPowerGrab.com is a single-page voter education site opposing a ballot mea
 - **Donate:** https://opportunity.vote/donate
 - **Contact:** contact@oaklandpowergrab.com
 
-## Primary sources cited
+## Primary sources
 
-- Oakland Legistar — Measure 26-0692: https://oakland.legistar.com/LegislationDetail.aspx?ID=7165432&GUID=26-0692
-- City of Oakland — Council Compensation Data: https://www.oaklandca.gov/topics/city-council-compensation
-- Oakland Charter Review Commission: https://www.oaklandca.gov/Government/Charter-Review-Commission
-
-## Barbara Lee record (documented)
-
-- Sheng Thao 2.0 framing: opposed Thao recall; voters recalled Thao 60.6% to 39.4%
-- $67,950 from Duong family (federal bribery scandal)
-- 14 years hidden rental income while advocating housing as a human right
-- #1 in Congress for lobbyist-funded luxury travel
-- $1.7M staff pay raises amid $290M city deficit
-- Oakland crisis stats: $290M deficit, 610 police (270 below recommended), 5,485 unhoused
-- Full documented record: https://FireBarbaraLee.com
+- Alameda County Registrar — Measure EE: https://acvote.alamedacountyca.gov/election-information/elections?id=260
+- Oakland Legistar 26-0692: https://oakland.legistar.com/LegislationDetail.aspx?GUID=F62A0029-E929-44D7-9A49-6E71BA7B98AB&ID=8005387
+- City Auditor financial analysis: https://www.oaklandauditor.com/wp-content/uploads/2026/07/City-Auditors-Financial-Analysis_Mayors-Charter-Reform-Ballot-Measure.pdf
+- Open Disclosure Oakland ballot question: https://www.opendisclosure.io/referendum/oakland/2026-11-03/charter-amendment-measure/
+- The Oaklandside, June 16, 2026: https://oaklandside.org/2026/06/16/barbara-lee-strong-mayor-oakland-november-charter/
+- Oakland Report pay analysis: https://www.oaklandreport.org/p/city-council-pay-raises-charter-reform
 
 ## Related campaigns
 
@@ -74,13 +88,13 @@ OaklandPowerGrab.com is a single-page voter education site opposing a ballot mea
 
 ## Site structure
 
-1. Hero — Barbara Lee's Power Grab overview
-2. Her Record — corruption ties, housing hypocrisy, Thao connection
-3. Pay Raise — salary increase mechanism and fine print
+1. Hero — Vote NO on Measure EE
+2. The Ballot — official question, 50%+1 threshold, what EE does
+3. Pay Raise — salary mechanism, Auditor cost, fiscal crisis
 4. Your Neighborhood — line-item veto and council power loss
-5. Rigged — 4-4 tie vote and suppressed Council-Manager option
+5. Rigged — 4-4 tie vote, failed administrator confirmation, suppressed Council-Manager option
 6. San Francisco — strong-mayor corruption warning
-7. Vote NO — final call to action and signup
+7. Vote NO on Measure EE — final call to action and signup
 
 ## Canonical URL
 
