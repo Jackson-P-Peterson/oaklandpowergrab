@@ -1,9 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://oaklandpowergrab.com/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oaklandpowergrab.com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oaklandpowergrab.com/"/>
+    <image:image>
+      <image:loc>https://oaklandpowergrab.com/og-image.jpg</image:loc>
+      <image:title>Vote NO on Oakland Measure EE</image:title>
+      <image:caption>Opposition to Oakland Measure EE, the Barbara Lee strong-mayor charter amendment on the November 3, 2026 ballot</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://oaklandpowergrab.com/index.md</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://oaklandpowergrab.com/llms.txt</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://oaklandpowergrab.com/llms-full.txt</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
