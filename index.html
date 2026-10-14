@@ -274,6 +274,12 @@
       transition: width 1.2s cubic-bezier(0.22, 1, 0.36, 1);
     }
 
+    .endorse-photo {
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
+      object-position: center 18%;
+    }
+
     .quote-mark::before {
       content: '\201C';
       font-size: 4rem;
@@ -369,6 +375,7 @@
         <a href="#neighborhood" class="nav-link pb-1 border-b-2 border-transparent hover:text-white transition-colors" data-section="neighborhood">Your Voice</a>
         <a href="#rigged" class="nav-link pb-1 border-b-2 border-transparent hover:text-white transition-colors" data-section="rigged">Rigged</a>
         <a href="#san-francisco" class="nav-link pb-1 border-b-2 border-transparent hover:text-white transition-colors" data-section="san-francisco">Warning</a>
+        <a href="#endorsements" class="nav-link pb-1 border-b-2 border-transparent hover:text-white transition-colors" data-section="endorsements">Endorsements</a>
         <button type="button" class="vote-no-trigger ml-2 bg-danger hover:bg-danger-dark text-white font-bold px-5 py-2.5 rounded-lg btn-primary text-sm whitespace-nowrap">
           Vote NO on EE
         </button>
@@ -775,6 +782,155 @@
             </ul>
           </div>
         </div>
+      </div>
+    </section>
+
+    <!-- ENDORSEMENTS -->
+    <section id="endorsements" class="py-20 sm:py-28 bg-charcoal border-t border-white/5" aria-labelledby="endorsements-heading">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6">
+        <p class="text-danger font-bold uppercase tracking-widest text-xs mb-4">Endorsements</p>
+        <h2 id="endorsements-heading" class="text-3xl sm:text-4xl md:text-5xl font-black leading-tight mb-6 max-w-4xl">
+          Voting <span class="text-danger">NO</span> on Measure EE
+        </h2>
+        <p class="text-lg sm:text-xl text-white/85 leading-relaxed mb-12 max-w-3xl">
+          Oakland officials and community leaders voting NO.
+        </p>
+
+        <ul class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 sm:gap-5" aria-label="People voting NO on Measure EE">
+          <li class="bg-charcoal-light border border-white/10 rounded-2xl overflow-hidden">
+            <div class="relative">
+              <img src="endorsements/zac-unger.jpg" alt="Zac Unger" width="720" height="609" class="endorse-photo w-full">
+              <span class="absolute top-2 right-2 bg-danger text-white text-[10px] sm:text-xs font-black tracking-widest px-2 py-1 rounded">NO</span>
+            </div>
+            <div class="p-3 sm:p-4">
+              <h3 class="font-bold text-sm sm:text-base leading-snug">Zac Unger</h3>
+              <p class="text-warm-gray text-xs sm:text-sm mt-1 leading-snug">Oakland Councilmember</p>
+            </div>
+          </li>
+          <li class="bg-charcoal-light border border-white/10 rounded-2xl overflow-hidden">
+            <div class="relative">
+              <img src="endorsements/janani-ramachandran.jpg" alt="Janani Ramachandran" width="607" height="511" class="endorse-photo w-full">
+              <span class="absolute top-2 right-2 bg-danger text-white text-[10px] sm:text-xs font-black tracking-widest px-2 py-1 rounded">NO</span>
+            </div>
+            <div class="p-3 sm:p-4">
+              <h3 class="font-bold text-sm sm:text-base leading-snug">Janani Ramachandran</h3>
+              <p class="text-warm-gray text-xs sm:text-sm mt-1 leading-snug">Oakland Councilmember</p>
+            </div>
+          </li>
+          <li class="bg-charcoal-light border border-white/10 rounded-2xl overflow-hidden">
+            <div class="relative">
+              <img src="endorsements/noel-gallo.jpg" alt="Noel Gallo" width="720" height="720" class="endorse-photo w-full">
+              <span class="absolute top-2 right-2 bg-danger text-white text-[10px] sm:text-xs font-black tracking-widest px-2 py-1 rounded">NO</span>
+            </div>
+            <div class="p-3 sm:p-4">
+              <h3 class="font-bold text-sm sm:text-base leading-snug">Noel Gallo</h3>
+              <p class="text-warm-gray text-xs sm:text-sm mt-1 leading-snug">Oakland Councilmember</p>
+            </div>
+          </li>
+          <li class="bg-charcoal-light border border-white/10 rounded-2xl overflow-hidden">
+            <div class="relative">
+              <img src="endorsements/ken-houston.jpg" alt="Ken Houston" width="530" height="650" class="endorse-photo w-full">
+              <span class="absolute top-2 right-2 bg-danger text-white text-[10px] sm:text-xs font-black tracking-widest px-2 py-1 rounded">NO</span>
+            </div>
+            <div class="p-3 sm:p-4">
+              <h3 class="font-bold text-sm sm:text-base leading-snug">Ken Houston</h3>
+              <p class="text-warm-gray text-xs sm:text-sm mt-1 leading-snug">Oakland Councilmember</p>
+            </div>
+          </li>
+          <li class="bg-charcoal-light border border-white/10 rounded-2xl overflow-hidden">
+            <div class="relative">
+              <img src="endorsements/loren-taylor.jpg" alt="Loren Taylor" width="600" height="600" class="endorse-photo w-full">
+              <span class="absolute top-2 right-2 bg-danger text-white text-[10px] sm:text-xs font-black tracking-widest px-2 py-1 rounded">NO</span>
+            </div>
+            <div class="p-3 sm:p-4">
+              <h3 class="font-bold text-sm sm:text-base leading-snug">Loren Taylor</h3>
+              <p class="text-warm-gray text-xs sm:text-sm mt-1 leading-snug">Former Oakland Councilmember</p>
+            </div>
+          </li>
+          <li class="bg-charcoal-light border border-white/10 rounded-2xl overflow-hidden">
+            <div class="relative">
+              <img src="endorsements/nancy-nadel.jpg" alt="Nancy Nadel" width="200" height="250" class="endorse-photo w-full">
+              <span class="absolute top-2 right-2 bg-danger text-white text-[10px] sm:text-xs font-black tracking-widest px-2 py-1 rounded">NO</span>
+            </div>
+            <div class="p-3 sm:p-4">
+              <h3 class="font-bold text-sm sm:text-base leading-snug">Nancy Nadel</h3>
+              <p class="text-warm-gray text-xs sm:text-sm mt-1 leading-snug">Former Oakland Councilmember</p>
+            </div>
+          </li>
+          <li class="bg-charcoal-light border border-white/10 rounded-2xl overflow-hidden">
+            <div class="relative">
+              <img src="endorsements/nate-miley.jpg" alt="Nate Miley" width="720" height="720" class="endorse-photo w-full object-[center_30%]">
+              <span class="absolute top-2 right-2 bg-danger text-white text-[10px] sm:text-xs font-black tracking-widest px-2 py-1 rounded">NO</span>
+            </div>
+            <div class="p-3 sm:p-4">
+              <h3 class="font-bold text-sm sm:text-base leading-snug">Nate Miley</h3>
+              <p class="text-warm-gray text-xs sm:text-sm mt-1 leading-snug">Alameda County Supervisor</p>
+            </div>
+          </li>
+          <li class="bg-charcoal-light border border-white/10 rounded-2xl overflow-hidden">
+            <div class="relative">
+              <img src="endorsements/ralph-kanz.jpg" alt="Ralph Kanz" width="400" height="400" class="endorse-photo w-full object-center">
+              <span class="absolute top-2 right-2 bg-danger text-white text-[10px] sm:text-xs font-black tracking-widest px-2 py-1 rounded">NO</span>
+            </div>
+            <div class="p-3 sm:p-4">
+              <h3 class="font-bold text-sm sm:text-base leading-snug">Ralph Kanz</h3>
+              <p class="text-warm-gray text-xs sm:text-sm mt-1 leading-snug">Former Public Ethics Commission Chair</p>
+            </div>
+          </li>
+          <li class="bg-charcoal-light border border-white/10 rounded-2xl overflow-hidden">
+            <div class="relative">
+              <img src="endorsements/james-vann.jpg" alt="James Vann" width="400" height="400" class="endorse-photo w-full object-center">
+              <span class="absolute top-2 right-2 bg-danger text-white text-[10px] sm:text-xs font-black tracking-widest px-2 py-1 rounded">NO</span>
+            </div>
+            <div class="p-3 sm:p-4">
+              <h3 class="font-bold text-sm sm:text-base leading-snug">James Vann</h3>
+              <p class="text-warm-gray text-xs sm:text-sm mt-1 leading-snug">Civic Activist</p>
+            </div>
+          </li>
+          <li class="bg-charcoal-light border border-white/10 rounded-2xl overflow-hidden">
+            <div class="relative">
+              <img src="endorsements/sharon-rose.jpg" alt="Sharon Rose" width="320" height="214" class="endorse-photo w-full object-center">
+              <span class="absolute top-2 right-2 bg-danger text-white text-[10px] sm:text-xs font-black tracking-widest px-2 py-1 rounded">NO</span>
+            </div>
+            <div class="p-3 sm:p-4">
+              <h3 class="font-bold text-sm sm:text-base leading-snug">Sharon Rose</h3>
+              <p class="text-warm-gray text-xs sm:text-sm mt-1 leading-snug">Political Activist</p>
+            </div>
+          </li>
+          <li class="bg-charcoal-light border border-white/10 rounded-2xl overflow-hidden">
+            <div class="relative">
+              <img src="endorsements/seneca-scott.jpg" alt="Seneca Scott" width="720" height="480" class="endorse-photo w-full object-[center_22%]">
+              <span class="absolute top-2 right-2 bg-danger text-white text-[10px] sm:text-xs font-black tracking-widest px-2 py-1 rounded">NO</span>
+            </div>
+            <div class="p-3 sm:p-4">
+              <h3 class="font-bold text-sm sm:text-base leading-snug">Seneca Scott</h3>
+              <p class="text-warm-gray text-xs sm:text-sm mt-1 leading-snug">Political Activist</p>
+            </div>
+          </li>
+          <li class="bg-charcoal-light border border-white/10 rounded-2xl overflow-hidden">
+            <div class="relative">
+              <img src="endorsements/edward-escobar.jpg" alt="Edward Escobar" width="400" height="400" class="endorse-photo w-full object-center">
+              <span class="absolute top-2 right-2 bg-danger text-white text-[10px] sm:text-xs font-black tracking-widest px-2 py-1 rounded">NO</span>
+            </div>
+            <div class="p-3 sm:p-4">
+              <h3 class="font-bold text-sm sm:text-base leading-snug">Edward Escobar</h3>
+              <p class="text-warm-gray text-xs sm:text-sm mt-1 leading-snug">Political Consultant</p>
+            </div>
+          </li>
+          <li class="bg-charcoal-light border border-white/10 rounded-2xl overflow-hidden">
+            <div class="relative">
+              <img src="endorsements/jackson-peterson.jpg" alt="Jackson Peterson" width="460" height="460" class="endorse-photo w-full object-center">
+              <span class="absolute top-2 right-2 bg-danger text-white text-[10px] sm:text-xs font-black tracking-widest px-2 py-1 rounded">NO</span>
+            </div>
+            <div class="p-3 sm:p-4">
+              <h3 class="font-bold text-sm sm:text-base leading-snug">Jackson Peterson</h3>
+              <p class="text-warm-gray text-xs sm:text-sm mt-1 leading-snug">Political Consultant</p>
+            </div>
+          </li>
+        </ul>
+
+        <p class="mt-10 text-center text-gold font-semibold tracking-wide text-lg">~ Partial List ~</p>
+        <p class="mt-4 text-center text-xs text-white/40">Nancy Nadel photo by Abel Guillen, CC BY 2.0.</p>
       </div>
     </section>
 
